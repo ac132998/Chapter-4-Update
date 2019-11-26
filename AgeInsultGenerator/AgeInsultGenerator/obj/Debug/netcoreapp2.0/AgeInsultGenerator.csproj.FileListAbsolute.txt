@@ -1,0 +1,11 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\bin\Debug\netcoreapp2.0\AgeInsultGenerator.deps.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\bin\Debug\netcoreapp2.0\AgeInsultGenerator.runtimeconfig.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\bin\Debug\netcoreapp2.0\AgeInsultGenerator.runtimeconfig.dev.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\bin\Debug\netcoreapp2.0\AgeInsultGenerator.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\bin\Debug\netcoreapp2.0\AgeInsultGenerator.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\netcoreapp2.0\AgeInsultGenerator.csprojAssemblyReference.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\netcoreapp2.0\AgeInsultGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\netcoreapp2.0\AgeInsultGenerator.AssemblyInfoInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\netcoreapp2.0\AgeInsultGenerator.AssemblyInfo.cs
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\netcoreapp2.0\AgeInsultGenerator.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\netcoreapp2.0\AgeInsultGenerator.pdb

@@ -1,0 +1,11 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\bin\Debug\netcoreapp2.0\popQuiz.deps.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\bin\Debug\netcoreapp2.0\popQuiz.runtimeconfig.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\bin\Debug\netcoreapp2.0\popQuiz.runtimeconfig.dev.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\bin\Debug\netcoreapp2.0\popQuiz.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\bin\Debug\netcoreapp2.0\popQuiz.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\obj\Debug\netcoreapp2.0\popQuiz.csprojAssemblyReference.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\obj\Debug\netcoreapp2.0\popQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\obj\Debug\netcoreapp2.0\popQuiz.AssemblyInfoInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\obj\Debug\netcoreapp2.0\popQuiz.AssemblyInfo.cs
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\obj\Debug\netcoreapp2.0\popQuiz.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\popQuiz\popQuiz\obj\Debug\netcoreapp2.0\popQuiz.pdb

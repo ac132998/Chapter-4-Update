@@ -1,0 +1,11 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.0\RockPaperScissors.deps.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.0\RockPaperScissors.runtimeconfig.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.0\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.0\RockPaperScissors.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.0\RockPaperScissors.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.0\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.0\RockPaperScissors.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.0\RockPaperScissors.pdb
